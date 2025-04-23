@@ -1,0 +1,2 @@
+Ok. Make a script for my website. It is a private Foto Galerie that only people with the right password can use. So make s password box and if it's right let them in. Make a door opening animation. And there put some Fotos that I will change to whatever I want . The website is called btttp and it should have a cool logo with it's name under it.
+The password should be:"dnddk". And add some cool moving parts and a cool moving background
